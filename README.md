@@ -5,6 +5,6 @@ correr codigo
 CMD
 python peg.py
 vista en consola
-0 casilla vacia
+\n 0 casilla vacia
 1 casilla con ficha
 2 no es parte del tablero

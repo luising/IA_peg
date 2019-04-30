@@ -7,6 +7,7 @@ CMD
 python peg.py
 
 vista en consola
+
 0 casilla vacia
 
 1 casilla con ficha
